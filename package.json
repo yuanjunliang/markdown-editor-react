@@ -1,0 +1,19 @@
+{
+  "name": "markdown-editor-react",
+  "version": "1.0.0",
+  "description": "react markdown editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanjunliang/markdown-editor-react.git"
+  },
+  "author": "yuanjunliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanjunliang/markdown-editor-react/issues"
+  },
+  "homepage": "https://github.com/yuanjunliang/markdown-editor-react#readme"
+}
